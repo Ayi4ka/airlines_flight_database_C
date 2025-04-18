@@ -27,3 +27,5 @@
 - Data management and basic database-like operations / Управление данными и простейшие операции БД
 - Dynamic memory handling / Работа с динамической памятью
 - Filtering and conditional output / Фильтрация и условный вывод
+
+![image](https://github.com/user-attachments/assets/f905b3ba-be6a-47be-9243-64c4e80f9cf3)
