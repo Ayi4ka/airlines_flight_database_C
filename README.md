@@ -43,6 +43,6 @@
 ```
 
 ---
-
+🤝 Author | Автор Made with ❤️ by Ayi4ka in 2021 / Сделано с любовью — Айка в 2021 году
 
 ![image](https://github.com/user-attachments/assets/f905b3ba-be6a-47be-9243-64c4e80f9cf3)
